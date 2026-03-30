@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Matkap Seti",
+    "category": "Elektrikli Aletler",
+    "price": 1499,
+    "desc": "Yüksek performanslı darbeli matkap seti.",
+    "img": "https://picsum.photos/seed/1/400/300"
+  },
+  {
+    "id": 2,
+    "title": "Taşlama Makinesi",
+    "category": "Elektrikli Aletler",
+    "price": 899,
+    "desc": "Metal kesim ve taşlama için güçlü makine.",
+    "img": "https://picsum.photos/seed/2/400/300"
+  },
+  {
+    "id": 3,
+    "title": "Çekiç",
+    "category": "El Aletleri",
+    "price": 199,
+    "desc": "Dayanıklı çelik başlıklı çekiç.",
+    "img": "https://picsum.photos/seed/3/400/300"
+  },
+  {
+    "id": 4,
+    "title": "Tornavida Seti",
+    "category": "El Aletleri",
+    "price": 299,
+    "desc": "Farklı uçlara sahip 12 parçalı set.",
+    "img": "https://picsum.photos/seed/4/400/300"
+  },
+  {
+    "id": 5,
+    "title": "Şarjlı Vidalama",
+    "category": "Elektrikli Aletler",
+    "price": 1299,
+    "desc": "Uzun ömürlü batarya ile güçlü performans.",
+    "img": "https://picsum.photos/seed/5/400/300"
+  },
+  {
+    "id": 6,
+    "title": "Lokma Takımı",
+    "category": "El Aletleri",
+    "price": 599,
+    "desc": "Profesyonel lokma anahtar seti.",
+    "img": "https://picsum.photos/seed/6/400/300"
+  },
+  {
+    "id": 7,
+    "title": "İnşaat Eldiveni",
+    "category": "İş Güvenliği",
+    "price": 99,
+    "desc": "Kesilmeye dayanıklı iş eldiveni.",
+    "img": "https://picsum.photos/seed/7/400/300"
+  },
+  {
+    "id": 8,
+    "title": "Koruyucu Gözlük",
+    "category": "İş Güvenliği",
+    "price": 79,
+    "desc": "Şeffaf lensli koruma gözlüğü.",
+    "img": "https://picsum.photos/seed/8/400/300"
+  },
+  {
+    "id": 9,
+    "title": "Spiral Disk",
+    "category": "Aksesuar",
+    "price": 49,
+    "desc": "Metal kesim için dayanıklı disk.",
+    "img": "https://picsum.photos/seed/9/400/300"
+  },
+  {
+    "id": 10,
+    "title": "Metre",
+    "category": "El Aletleri",
+    "price": 89,
+    "desc": "5 metre ölçüm bandı.",
+    "img": "https://picsum.photos/seed/10/400/300"
+  },
+  {
+    "id": 11,
+    "title": "Kablo Uzatma",
+    "category": "Elektrik",
+    "price": 199,
+    "desc": "10 metre uzatma kablosu.",
+    "img": "https://picsum.photos/seed/11/400/300"
+  },
+  {
+    "id": 12,
+    "title": "LED Projektör",
+    "category": "Aydınlatma",
+    "price": 349,
+    "desc": "Yüksek aydınlatma gücüne sahip LED projektör.",
+    "img": "https://picsum.photos/seed/12/400/300"
+  },
+  {
+    "id": 13,
+    "title": "Silikon Tabancası",
+    "category": "El Aletleri",
+    "price": 149,
+    "desc": "Sıcak silikon uygulamaları için ideal.",
+    "img": "https://picsum.photos/seed/13/400/300"
+  },
+  {
+    "id": 14,
+    "title": "Pense",
+    "category": "El Aletleri",
+    "price": 129,
+    "desc": "Çok amaçlı pense.",
+    "img": "https://picsum.photos/seed/14/400/300"
+  },
+  {
+    "id": 15,
+    "title": "Su Terazisi",
+    "category": "Ölçüm",
+    "price": 179,
+    "desc": "Hassas ölçüm için su terazisi.",
+    "img": "https://picsum.photos/seed/15/400/300"
+  },
+  {
+    "id": 16,
+    "title": "Çivi Seti",
+    "category": "Aksesuar",
+    "price": 59,
+    "desc": "Farklı boylarda çivi seti.",
+    "img": "https://picsum.photos/seed/16/400/300"
+  },
+  {
+    "id": 17,
+    "title": "Vida Seti",
+    "category": "Aksesuar",
+    "price": 69,
+    "desc": "Çeşitli vida çeşitleri.",
+    "img": "https://picsum.photos/seed/17/400/300"
+  },
+  {
+    "id": 18,
+    "title": "Elektrik Bandı",
+    "category": "Elektrik",
+    "price": 29,
+    "desc": "Yüksek izolasyonlu bant.",
+    "img": "https://picsum.photos/seed/18/400/300"
+  },
+  {
+    "id": 19,
+    "title": "Kablo Kesici",
+    "category": "El Aletleri",
+    "price": 249,
+    "desc": "Profesyonel kablo kesme aracı.",
+    "img": "https://picsum.photos/seed/19/400/300"
+  },
+  {
+    "id": 20,
+    "title": "Kaynak Makinesi",
+    "category": "Makine",
+    "price": 3499,
+    "desc": "Güçlü inverter kaynak makinesi.",
+    "img": "https://picsum.photos/seed/20/400/300"
+  },
+  {
+    "id": 21,
+    "title": "Hava Kompresörü",
+    "category": "Makine",
+    "price": 2899,
+    "desc": "Yüksek basınçlı hava kompresörü.",
+    "img": "https://picsum.photos/seed/21/400/300"
+  },
+  {
+    "id": 22,
+    "title": "Zımpara Kağıdı",
+    "category": "Aksesuar",
+    "price": 39,
+    "desc": "Ahşap ve metal yüzeyler için.",
+    "img": "https://picsum.photos/seed/22/400/300"
+  },
+  {
+    "id": 23,
+    "title": "Isı Tabancası",
+    "category": "Elektrikli Aletler",
+    "price": 599,
+    "desc": "Boyayı sökmek için güçlü ısı tabancası.",
+    "img": "https://picsum.photos/seed/23/400/300"
+  },
+  {
+    "id": 24,
+    "title": "Çekiç Matkap",
+    "category": "Elektrikli Aletler",
+    "price": 1899,
+    "desc": "Beton delme için güçlü matkap.",
+    "img": "https://picsum.photos/seed/24/400/300"
+  },
+  {
+    "id": 25,
+    "title": "El Testeresi",
+    "category": "El Aletleri",
+    "price": 199,
+    "desc": "Ahşap kesimi için ideal testere.",
+    "img": "https://picsum.photos/seed/25/400/300"
+  },
+  {
+    "id": 26,
+    "title": "Boya Rulosu",
+    "category": "Boyama",
+    "price": 79,
+    "desc": "Pürüzsüz boya uygulaması sağlar.",
+    "img": "https://picsum.photos/seed/26/400/300"
+  },
+  {
+    "id": 27,
+    "title": "Fırça Seti",
+    "category": "Boyama",
+    "price": 129,
+    "desc": "Farklı boyutlarda boya fırçaları.",
+    "img": "https://picsum.photos/seed/27/400/300"
+  },
+  {
+    "id": 28,
+    "title": "Spiral Makine",
+    "category": "Elektrikli Aletler",
+    "price": 1099,
+    "desc": "Kesme ve taşlama için ideal.",
+    "img": "https://picsum.photos/seed/28/400/300"
+  },
+  {
+    "id": 29,
+    "title": "Matkap Ucu Seti",
+    "category": "Aksesuar",
+    "price": 199,
+    "desc": "Farklı yüzeyler için uç seti.",
+    "img": "https://picsum.photos/seed/29/400/300"
+  },
+  {
+    "id": 30,
+    "title": "İş Ayakkabısı",
+    "category": "İş Güvenliği",
+    "price": 699,
+    "desc": "Çelik burunlu güvenlik ayakkabısı.",
+    "img": "https://picsum.photos/seed/30/400/300"
+  }
+]
