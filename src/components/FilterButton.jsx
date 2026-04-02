@@ -1,30 +1,36 @@
-import React,{useState} from 'react'
+import React, { useState } from "react";
 
-import Data from "../assets/Data/Data.json"
-
+import Data from "../assets/Data/Data.json";
 
 const FilterButton = ({ menuItems, filterItems, setItem }) => {
   const [selectedItems, setSelectedItems] = useState(new Set());
-
 
   const handleCheckboxChange = (item) => {
     const newSelectedItems = new Set(selectedItems);
     if (newSelectedItems.has(item)) {
       newSelectedItems.delete(item);
     } else {
-      newSelectedItems.add(item);    }    setSelectedItems(newSelectedItems);    applyFilters(newSelectedItems);  };
-const applyFilters = (selectedItems) => {
+      newSelectedItems.add(item);
+    }
+    setSelectedItems(newSelectedItems);
+    applyFilters(newSelectedItems);
+  };
+  const applyFilters = (selectedItems) => {
     if (selectedItems.size === 0 || selectedItems.has("All")) {
       setItem(Data);
     } else {
-      const newItems = Data.filter((newVal) => selectedItems.has(newVal.category));
-      setItem(newItems);    }  }; 
+      const newItems = Data.filter((newVal) =>
+        selectedItems.has(newVal.category),
+      );
+      setItem(newItems);
+    }
+  };
 
   return (
     <div className="dropdown">
       <button
         className="btn btn-dark dropdown-toggle"
-        style={{width:"125px"}}
+        style={{ width: "125px" }}
         type="button"
         id="dropdownMenuButton"
         data-bs-toggle="dropdown"
@@ -63,6 +69,7 @@ const applyFilters = (selectedItems) => {
         </li>
       </ul>
     </div>
-  ); }; 
+  );
+};
 
 export default FilterButton;
